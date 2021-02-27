@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Willim</h1>
+<h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">In love with low-level languages and mobile apps</h3>
 
 - 🔭 I’m currently working on [Twitch chat-bot](https://github.com/williamtorres1/super-night-bot)

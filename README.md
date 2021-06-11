@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">I'm always learning</h3>
 
-- 🔭 I’m not currently working, but i'm available for jobs. I love learn and teach new things. So, if you liked my profile, contact me on my e-mail or LinkedIn
+- 🔭 I’m currently working on [Adorie](https://adorie.com.br).
  
 - 🌱 I’m currently learning **TypeScript, Node.JS, React Native, ReactJS**
 
@@ -9,11 +9,9 @@
 
 - 💬 Ask me about **Node.JS, React Native, C and eletronic's stuff**
 
-- 📫 How to reach me **contatowilliamtorres@gmail.com**
+- I love learn and teach new things. So, if you liked my profile, contact me on my e-mail above or [LinkedIn](https://www.linkedin.com/in/williamtorres1/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **contatowilliamtorres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

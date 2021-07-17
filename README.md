@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">I'm always learning</h3>
 
-- 🔭 I’m currently working on [Adorie](https://adorie.com.br).
- 
 - 🌱 I’m currently learning **TypeScript, Node.JS, React Native, ReactJS**
 
 - 📝 I regularly write articles on [https://medium.com/@williamtorres1](https://medium.com/@williamtorres1)

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">I'm always learning</h3>
+<!-- <h3 align="center">I'm always learning</h3>
 
 - 🌱 I’m currently learning **TypeScript, Node.JS, React Native, ReactJS**
   
 - 💬 Ask me about **Node.JS, React Native, C and eletronic's stuff**
 
-- I love learn and teach new things. So, if you liked my profile, contact me on my e-mail below or [LinkedIn](https://www.linkedin.com/in/williamtorres1/)
+- I love learn and teach new things. So, if you liked my profile, contact me on my e-mail below or [LinkedIn](https://www.linkedin.com/in/williamtorres1/) -->
 
 - 📫 How to reach me **contatowilliamtorres@gmail.com**
 
